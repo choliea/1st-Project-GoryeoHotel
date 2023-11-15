@@ -1,4 +1,4 @@
-# Project GoGuRyeo Hotel By Team.오졌조 
+# mini Project GoGuRyeo Hotel By Team.오졌조 
 
 레퍼런스 사이트 : 신라호텔  <a href="https://www.shillahotels.com/index.do" />
 
