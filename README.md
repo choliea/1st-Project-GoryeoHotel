@@ -2,6 +2,8 @@
 
 레퍼런스 사이트 : 신라호텔  <a href="https://www.shillahotels.com/index.do" />
 
+총 12일 (2023.07.14. ~ 2023.07.25.)
+
 프로젝트 
 [5조OJIGOYO.pptx](https://github.com/choliea/1st-Project-GoryeoHotel/files/13359643/5.OJIGOYO.pptx)
 
